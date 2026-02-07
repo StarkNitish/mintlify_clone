@@ -14,7 +14,7 @@ You'll find `index.html` for the main structure and `style.css` for all the visu
 
 ## How to check it out
 
-Super easy! You can either open the `index.html` file in your web browser, or check out the live version here: [webdev.nitishkumar.cloud](http://webdev.nitishkumar.cloud)
+Super easy! You can either open the `index.html` file in your web browser, or check out the live version here: [webdev.nitishkumar.cloud](https://mintlify-clone.nitishkumar.cloud/)
 
 That's it!
 
